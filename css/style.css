@@ -1,0 +1,18 @@
+/* css untuk menentukan format halaman yang ditampilkan*/
+body {text-align: justify;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;}
+
+/*css untuk menentukan format pada input section halaman*/
+p {margin-right:700px}
+section {
+    border: 1px solid black;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 700px;
+    margin-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: skyblue;}
